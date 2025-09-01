@@ -1,4 +1,11 @@
 #include <stdio.h>
+// variaveis da carta 1
+int c1_codigo;
+char c1_nome[64];
+long long c1_populacao;
+double c1_area;
+doubre c1_pib;
+int c1_pontos_turisticos;
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
